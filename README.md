@@ -20,4 +20,8 @@ Analyser l’évolution des températures à partir de données historiques.
 - Création d’un dashboard Power BI
 
 ## Aperçu
+- Les secteurs qui polluent le plus de CO2
 ![Dashboard](secteur_pollueur.png)
+
+- Top 8 des pays les plus pollueurs dans le monde
+![Dashboard](top_pay_pollueur.png)
