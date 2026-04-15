@@ -25,3 +25,6 @@ Analyser l’évolution des températures à partir de données historiques.
 
 - Top 8 des pays les plus pollueurs dans le monde
 ![Dashboard](top_pay_pollueur.png)
+
+ - Taux d'émission du CO2 en fonction de la population sur les continents les plus pollueurs
+ ![Dashboard](emission_CO2_population.png)
