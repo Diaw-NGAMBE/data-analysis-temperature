@@ -20,4 +20,3 @@ Analyser l’évolution des températures à partir de données historiques.
 - Création d’un dashboard Power BI
 
 ## Aperçu
-(insère ici une capture d’écran de ton dashboard)
