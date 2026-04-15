@@ -20,3 +20,4 @@ Analyser l’évolution des températures à partir de données historiques.
 - Création d’un dashboard Power BI
 
 ## Aperçu
+![Dashboard](secteur_pollueur.png)
